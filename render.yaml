@@ -1,0 +1,88 @@
+# Render Blueprint — Rehearsal Social Studio.
+# Two Background Workers (no public ingress: Slack Socket Mode + Supabase + Postiz are all OUTBOUND).
+# Deploy: Render Dashboard → New → Blueprint → connect this repo → Apply.
+# Then fill the rss-shared env group's secrets (they are sync:false → Render prompts; never in the repo).
+#
+# Cost note: Render Background Workers require a paid instance (Starter ≈ $7/mo each → ≈ $14/mo for both).
+# Hard rule: exactly ONE bot + ONE worker instance (no horizontal scaling).
+
+services:
+  - type: worker
+    name: rss-bot
+    runtime: node
+    region: singapore # closest Render region to Supabase ap-northeast-1 (Tokyo)
+    plan: starter
+    buildCommand: corepack enable && pnpm install --frozen-lockfile
+    startCommand: pnpm start:bot
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - fromGroup: rss-shared
+
+  - type: worker
+    name: rss-worker
+    runtime: node
+    region: singapore
+    plan: starter
+    buildCommand: corepack enable && pnpm install --frozen-lockfile
+    startCommand: pnpm start:worker
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - fromGroup: rss-shared
+
+envVarGroups:
+  - name: rss-shared
+    envVars:
+      # ── non-secret config (committed values) ──
+      - key: NODE_ENV
+        value: production
+      - key: CONTENT_LIBRARY
+        value: supabase
+      - key: DRAFT_STORE
+        value: supabase
+      - key: PUBLISHER_ADAPTER
+        value: live
+      - key: OBJECT_STORE
+        value: supabase
+      - key: SUPABASE_URL
+        value: https://ceknijyoqvngevzexcmo.supabase.co
+      - key: SUPABASE_BUCKET
+        value: post-media
+      - key: ANTHROPIC_MODEL
+        value: claude-sonnet-4-6
+      - key: POSTIZ_API_URL
+        value: https://api.postiz.com/public/v1
+      - key: LOCKED_CONFIG_PATH
+        value: config/locked-config.json
+      # non-secret account IDs (useless without the tokens; fine in a private repo)
+      - key: POSTIZ_INTEGRATION_LINKEDIN
+        value: cmj85z26h07nxnn0ynjm91da2
+      - key: POSTIZ_INTEGRATION_X
+        value: cmj87m8kf07rann0ym4wn5tba
+      - key: POSTIZ_INTEGRATION_INSTAGRAM
+        value: cmj873wk707pgnn0ya6de3nf7
+      - key: SLACK_INTAKE_CHANNEL
+        value: C0B5PKLL4UT
+      # ── secrets — Render prompts for these (never committed) ──
+      - key: SLACK_BOT_TOKEN
+        sync: false
+      - key: SLACK_APP_TOKEN
+        sync: false
+      - key: SLACK_SIGNING_SECRET
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: POSTIZ_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false # only needed to upload/serve images; text-only publishing works without it
+      # ── governance (recommended; set when ready) ──
+      - key: SLACK_APPROVERS
+        sync: false
+      - key: SLACK_OPS_CHANNEL
+        sync: false

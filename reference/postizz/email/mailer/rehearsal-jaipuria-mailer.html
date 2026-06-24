@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<!--
+  Rehearsal × Jaipuria — admissions / Day-1 invite mailer (sample)
+  ------------------------------------------------------------------
+  Email-client-safe: table layout, inline CSS, 600px width, bulletproof
+  Outlook (VML) button, web-safe font stack with Raleway progressive
+  enhancement. Tested pattern for Gmail / Apple Mail / Outlook / mobile.
+
+  BEFORE SENDING — replace the 3 placeholders:
+    1. {{BANNER_URL}}  -> upload ../banner-edge.png to your CDN/ESP, paste the public URL
+    2. {{FirstName}}   -> your ESP's merge tag  (Mailchimp *|FNAME|*, Brevo {{contact.FIRSTNAME}}, etc.)
+    3. footer address + unsubscribe link (legal requirement)
+  Subject line + preheader suggestions are in README.md.
+-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>The Jaipuria Edge — powered by Rehearsal</title>
+  <!--[if mso]>
+  <noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+  <![endif]-->
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    /* client resets */
+    body,table,td,a{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+    table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    img{ -ms-interpolation-mode:bicubic; border:0; height:auto; line-height:100%; outline:none; text-decoration:none; }
+    table{ border-collapse:collapse !important; }
+    body{ margin:0 !important; padding:0 !important; width:100% !important; height:100% !important; background:#eef0f3; }
+    a{ color:#00a06b; }
+    .btn-a:hover{ background:#00a878 !important; }
+    @media screen and (max-width:600px){
+      .wrap{ width:100% !important; }
+      .px{ padding-left:24px !important; padding-right:24px !important; }
+      .h1{ font-size:30px !important; line-height:1.12 !important; }
+      .stack{ display:block !important; width:100% !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background:#eef0f3;">
+
+  <!-- preheader (hidden inbox preview text) -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef0f3; opacity:0;">
+    While peers cram the night before, you'll have rehearsed for months. Free AI interview prep, from Day 1. Batch starts 29 June.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef0f3;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+
+        <!-- ============ CARD ============ -->
+        <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background:#ffffff; border-radius:18px; overflow:hidden; box-shadow:0 10px 40px rgba(10,10,20,0.10);">
+
+          <!-- banner -->
+          <tr>
+            <td style="background:#0a0a0c; line-height:0; font-size:0;">
+              <a href="https://tryrehearsal.ai" target="_blank" style="text-decoration:none;">
+                <img src="{{BANNER_URL}}" width="600" alt="Rehearsal — rehearse for months, not the night before"
+                     style="display:block; width:100%; max-width:600px; height:auto; border:0;">
+              </a>
+            </td>
+          </tr>
+
+          <!-- body -->
+          <tr>
+            <td class="px" style="padding:40px 48px 8px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 22px 0; font-size:18px; line-height:1.3; color:#0a0a0c; font-weight:700;">
+                Hi {{FirstName}},
+              </p>
+              <h1 class="h1" style="margin:0 0 18px 0; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:34px; line-height:1.1; letter-spacing:-0.5px; color:#0a0a0c; font-weight:900;">
+                Most MBA colleges promise placements. Jaipuria builds the person recruiters actually want to hire.
+              </h1>
+              <p style="margin:0 0 18px 0; font-size:16px; line-height:1.62; color:#3c4149; font-weight:400;">
+                From Day&nbsp;1, you get access to <b style="color:#0a0a0c;">Rehearsal</b> — an AI platform that builds the one thing most MBA students lack in front of a recruiter: the ability to <b style="color:#0a0a0c;">think on your feet and say the right thing, confidently.</b>
+              </p>
+            </td>
+          </tr>
+
+          <!-- feature list -->
+          <tr>
+            <td class="px" style="padding:6px 48px 8px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">📂</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">Real company stories</b> — the way questions are actually asked.</td>
+                </tr>
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">🎙️</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">AI mock interviews</b> — unlimited reps, instant feedback.</td>
+                </tr>
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">📈</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;">Practice that knows your CV and puts <b style="color:#0a0a0c;">your own numbers</b> back in your mouth until they're second nature.</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="px" style="padding:14px 48px 6px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 18px 0; font-size:16px; line-height:1.62; color:#3c4149;">
+                While peers at other institutions cram case studies the night before, <b style="color:#0a0a0c;">you'll have been rehearsing for months.</b> That is the Jaipuria edge.
+              </p>
+            </td>
+          </tr>
+
+          <!-- CTA button (bulletproof) -->
+          <tr>
+            <td align="center" style="padding:14px 48px 10px 48px;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://tryrehearsal.ai" style="height:54px;v-text-anchor:middle;width:300px;" arcsize="100%" strokecolor="#00c483" fillcolor="#00c483">
+                <w:anchorlock/>
+                <center style="color:#06231a;font-family:Arial,sans-serif;font-size:17px;font-weight:bold;">Try it free → tryrehearsal.ai</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-- -->
+              <a class="btn-a" href="https://tryrehearsal.ai" target="_blank"
+                 style="background:#00c483; color:#06231a; display:inline-block; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:17px; font-weight:800; line-height:54px; text-align:center; text-decoration:none; width:300px; border-radius:100px; -webkit-text-size-adjust:none;">
+                Try it free → tryrehearsal.ai
+              </a>
+              <!--<![endif]-->
+            </td>
+          </tr>
+
+          <!-- app links -->
+          <tr>
+            <td align="center" style="padding:4px 48px 18px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0; font-size:13px; line-height:1.5; color:#8b909a;">
+                or search <b style="color:#3c4149;">"Rehearsal AI"</b> on the
+                <a href="https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041" style="color:#00a06b; font-weight:700; text-decoration:none;">App Store</a> ·
+                <a href="https://play.google.com/store/apps/details?id=ai.rehearsal.app" style="color:#00a06b; font-weight:700; text-decoration:none;">Google Play</a>
+              </p>
+            </td>
+          </tr>
+
+          <!-- urgency band -->
+          <tr>
+            <td class="px" style="padding:0 48px 40px 48px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px; background:#f4f6f8; border:1px solid #e6e9ee;">
+                <tr>
+                  <td style="padding:16px 22px; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; color:#0a0a0c; font-weight:700;">
+                    🗓️ Batch starts <span style="color:#00a06b;">29&nbsp;June</span>. Seats are filling fast.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- rainbow rule -->
+          <tr><td style="line-height:0; font-size:0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+              <td width="25%" height="6" style="background:#9677f8; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#4e44fd; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#ff4859; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#00c483; line-height:0; font-size:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <!-- footer -->
+          <tr>
+            <td style="padding:26px 48px 30px 48px; background:#0a0a0c; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 6px 0; font-size:22px; line-height:1; color:#ffffff; font-weight:400;">Re<span style="font-weight:200;">hearsal</span></p>
+              <p style="margin:0 0 16px 0; font-size:12px; letter-spacing:1.5px; text-transform:uppercase; color:#8b909a; font-weight:600;">In partnership with Jaipuria Institute of Management</p>
+              <p style="margin:0; font-size:12px; line-height:1.6; color:#6b7079;">
+                You're receiving this because you enquired about admissions at Jaipuria Institute of Management.<br>
+                [Your Company Pvt. Ltd., Address line, City, PIN]<br>
+                <a href="{{UnsubscribeURL}}" style="color:#8b909a; text-decoration:underline;">Unsubscribe</a> &nbsp;·&nbsp;
+                <a href="https://tryrehearsal.ai" style="color:#8b909a; text-decoration:underline;">tryrehearsal.ai</a>
+              </p>
+            </td>
+          </tr>
+
+        </table>
+        <!-- ============ /CARD ============ -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

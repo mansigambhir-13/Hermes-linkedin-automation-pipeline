@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rehearsal Social Studio — Intake</title>
+    <style>
+      :root { --bg:#0a0a0a; --fg:#f5f5f5; --muted:#9aa0a6; }
+      * { box-sizing: border-box; }
+      body { margin:0; background:var(--bg); color:var(--fg); font-family: Raleway, system-ui, sans-serif; display:flex; min-height:100vh; align-items:center; justify-content:center; }
+      .card { width:min(560px,92vw); padding:32px; }
+      h1 { font-weight:300; letter-spacing:-0.5px; } h1 b { font-weight:600; }
+      .bar { height:3px; border-radius:2px; background:linear-gradient(90deg,#9677f8,#4e44fd,#ff4859,#00c483); margin:8px 0 24px; }
+      label { display:block; margin:16px 0 6px; color:var(--muted); font-size:14px; }
+      input, textarea, select { width:100%; padding:10px 12px; background:#141414; border:1px solid #2a2a2a; border-radius:8px; color:var(--fg); font:inherit; }
+      textarea { min-height:90px; resize:vertical; }
+      .row { display:flex; gap:12px; } .row > div { flex:1; }
+      button { margin-top:24px; padding:12px 18px; border:0; border-radius:999px; color:#fff; font-weight:600; cursor:pointer;
+               background:linear-gradient(90deg,#9677f8,#4e44fd,#00c483); }
+      .note { margin-top:16px; color:var(--muted); font-size:13px; }
+      #out { margin-top:16px; font-size:14px; white-space:pre-wrap; }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1><b>Re</b>hearsal — Social Studio</h1>
+      <div class="bar"></div>
+      <form id="f">
+        <label>Idea / prompt</label>
+        <textarea id="idea" placeholder="e.g. why mock interviews beat re-reading notes" required></textarea>
+        <div class="row">
+          <div>
+            <label>Platform</label>
+            <select id="platform"><option>linkedin</option><option>instagram</option><option>both</option></select>
+          </div>
+          <div>
+            <label>Format</label>
+            <select id="format"><option value="auto">let the agent decide</option><option value="single_image">single image</option><option value="carousel">carousel</option></select>
+          </div>
+        </div>
+        <button type="submit">Send to studio →</button>
+      </form>
+      <p class="note">Submitting drafts a caption + image and posts it into Slack for review (Approve / Refine / Edit / Schedule / Publish there). <b>both</b> creates one tailored draft per platform; <b>auto</b> → single image.</p>
+      <div id="out"></div>
+    </div>
+    <script>
+      // Served same-origin by the bot's intake server (apps/slack-bot) — POSTs to /api/posts, which runs the
+      // pipeline and drops the draft into the Slack review channel (SLACK_INTAKE_CHANNEL).
+      const form = document.getElementById('f');
+      const out = document.getElementById('out');
+      const btn = form.querySelector('button');
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const body = {
+          idea: document.getElementById('idea').value,
+          platform: document.getElementById('platform').value,
+          format: document.getElementById('format').value,
+          created_by: 'web',
+          source: 'ui',
+        };
+        btn.disabled = true;
+        out.textContent = '⏳ Sending to the studio… (caption + image, ~30–90s) — watch Slack.';
+        try {
+          const r = await fetch('/api/posts', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) });
+          const data = await r.json();
+          out.textContent = data.ok ? `✅ ${data.message}` : `⛔ ${data.error}`;
+        } catch (err) {
+          out.textContent = '⛔ ' + err;
+        } finally {
+          btn.disabled = false;
+        }
+      });
+    </script>
+  </body>
+</html>

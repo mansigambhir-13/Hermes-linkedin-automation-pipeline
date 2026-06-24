@@ -1,0 +1,11 @@
+{
+  "_BLOCKER": "TEAM-SUPPLIED. Copy to config/locked-config.json and fill REAL values. The agent must NEVER invent these (03-agent-instructions.md §5.3). The Phase-1 caption quality gate CANNOT close until real values are present — a caption missing its real CTA isn't publishable.",
+  "cta": {
+    "linkedin": "<<TEAM: exact LinkedIn call-to-action wording/format>>",
+    "instagram": "<<TEAM: exact Instagram call-to-action wording/format>>"
+  },
+  "hashtags": {
+    "linkedin": ["<<TEAM", "locked", "LinkedIn", "set", "exact", "and", "in", "order>>"],
+    "instagram": ["<<TEAM", "locked", "Instagram", "block", "exact", "and", "in", "order>>"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": "Allowed + default aspect ratios per placement (02-image-generation-method.md §5). Instagram carousels MUST use one uniform ratio across all slides — enforced via posts.aspect_ratio.",
+  "allowed": {
+    "linkedin": { "single_image": ["1.91:1", "1:1"], "carousel": ["1:1"] },
+    "instagram": { "single_image": ["4:5", "1:1"], "carousel": ["1:1", "4:5"], "story": ["9:16"] }
+  },
+  "defaults": {
+    "linkedin": { "single_image": "1.91:1", "carousel": "1:1" },
+    "instagram": { "single_image": "4:5", "carousel": "1:1" }
+  }
+}

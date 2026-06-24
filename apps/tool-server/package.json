@@ -1,0 +1,24 @@
+{
+  "name": "@rss/tool-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "smoke": "tsx scripts/smoke.ts",
+    "hybrid-smoke": "cd ../.. && IMAGE_ADAPTER=stub OBJECT_STORE=local node --import tsx apps/tool-server/scripts/hybrid-smoke.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@rss/agent": "workspace:*",
+    "@rss/core": "workspace:*",
+    "@rss/image": "workspace:*",
+    "@rss/render": "workspace:*",
+    "@rss/publisher": "workspace:*",
+    "zod": "^3.25.0"
+  }
+}

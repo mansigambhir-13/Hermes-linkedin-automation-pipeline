@@ -1,0 +1,58 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;background:#0a0a0c;font-family:'Raleway',sans-serif;color:#fff;overflow:hidden}
+.canvas{position:relative;width:1080px;height:1350px;display:flex;flex-direction:column;align-items:center;padding:46px 0 34px}
+.glow{position:absolute;top:-160px;left:50%;transform:translateX(-50%);width:1200px;height:660px;z-index:0;
+  background:radial-gradient(ellipse at center,rgba(255,72,89,0.12) 0%,rgba(255,72,89,0.03) 48%,transparent 72%)}
+.mast{position:relative;z-index:3;font-weight:800;font-size:24px;letter-spacing:7px;text-transform:uppercase;color:#fff;margin-bottom:20px}
+.chip{position:relative;z-index:3;margin-bottom:26px;display:inline-flex;align-items:center;gap:11px;
+  font-weight:700;font-size:20px;letter-spacing:2.5px;text-transform:uppercase;color:#ff6873;
+  background:rgba(255,72,89,0.12);border-radius:100px;padding:9px 22px}
+.chip .dot{width:9px;height:9px;border-radius:50%;background:#ff4859}
+.card{position:relative;z-index:3;width:1004px;border-radius:44px;background:#131318;border:1px solid rgba(255,255,255,0.06);
+  overflow:hidden;box-shadow:0 50px 120px rgba(0,0,0,0.55)}
+.banner{display:block;width:100%;height:430px;object-fit:cover;background:#0f0f12}
+.body{padding:40px 50px 44px}
+.headline{font-weight:900;font-size:78px;line-height:0.96;letter-spacing:-2.5px;color:#ff4859}
+.def{margin-top:20px;font-weight:600;font-size:30px;line-height:1.36;color:#f4f5f7;max-width:880px}
+/* clean hairline 2x2 — colour lives on the P initial, not in boxes */
+.dgrid{display:grid;grid-template-columns:1fr 1fr;margin-top:38px;border-top:1px solid rgba(255,255,255,0.08)}
+.cell{display:flex;align-items:center;gap:18px;padding:26px 8px}
+.cell:nth-child(odd){border-right:1px solid rgba(255,255,255,0.08);padding-right:26px}
+.cell:nth-child(even){padding-left:30px}
+.cell:nth-child(1),.cell:nth-child(2){border-bottom:1px solid rgba(255,255,255,0.08)}
+.cell .p{font-weight:900;font-size:52px;line-height:0.8;color:var(--c)}
+.cell .l{font-weight:700;font-size:27px;color:#f4f5f7;letter-spacing:-0.3px}
+.cell .s{font-weight:300;font-size:18px;color:#8b909b;margin-top:3px}
+.note{margin-top:34px;font-weight:300;font-size:24px;line-height:1.45;color:#b9bdc6}.note b{font-weight:700;color:#f4f5f7}
+.footzone{position:relative;z-index:3;flex:1;width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:17px}
+.wm{font-weight:400;font-size:46px;letter-spacing:-1.1px;color:#fff}.wm span{font-weight:200}
+.wmline{width:152px;height:5px;border-radius:3px;background:linear-gradient(90deg,#9677f8,#4e44fd,#ff4859,#00c483)}
+.cta{display:inline-flex;background:#00c483;color:#06231a;font-weight:800;font-size:24px;padding:17px 40px;border-radius:100px}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.02) 1px,transparent 1px);background-size:3px 3px;opacity:0.35;pointer-events:none;z-index:5}
+.stripe{position:absolute;left:0;bottom:0;width:100%;height:8px;background:linear-gradient(90deg,#9677f8,#4e44fd,#ff4859,#00c483);z-index:6}
+</style></head><body>
+<div class="canvas"><div class="glow"></div>
+  <div class="mast">MBA Jargon</div>
+  <div class="chip"><span class="dot"></span>Marketing</div>
+  <div class="card">
+    <img class="banner" src="file:///Users/gourab.chatterjee/Documents/Rehearsal-content-generation-pipeline/visuals/brand-manager-market-positioning/visual-0-cover.png">
+    <div class="body">
+      <div class="headline">The 4 Ps</div>
+      <div class="def">The four levers every marketer controls: Product, Price, Place, Promotion.</div>
+      <div class="dgrid">
+        <div class="cell" style="--c:#9677f8"><div class="p">P</div><div><div class="l">Product</div><div class="s">what you make</div></div></div>
+        <div class="cell" style="--c:#4e44fd"><div class="p">P</div><div><div class="l">Price</div><div class="s">what you charge</div></div></div>
+        <div class="cell" style="--c:#ff4859"><div class="p">P</div><div><div class="l">Place</div><div class="s">where you sell</div></div></div>
+        <div class="cell" style="--c:#00c483"><div class="p">P</div><div><div class="l">Promotion</div><div class="s">how you tell</div></div></div>
+      </div>
+      <div class="note">Coined by <b>E. Jerome McCarthy</b> in 1960, popularised by <b>Philip Kotler</b>. Change one P and the other three have to answer for it.</div>
+    </div>
+  </div>
+  <div class="footzone"><div style="display:flex;flex-direction:column;align-items:center;gap:11px">
+    <div class="wm">Re<span>hearsal</span></div><div class="wmline"></div></div>
+    <div class="cta">Download the Rehearsal app</div></div>
+  <div class="grain"></div><div class="stripe"></div>
+</div></body></html>

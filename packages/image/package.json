@@ -1,0 +1,20 @@
+{
+  "name": "@rss/image",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "smoke": "tsx scripts/smoke.ts",
+    "ground": "cd ../.. && node --env-file=.env --import tsx packages/image/scripts/ground-brand.ts"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.10.1",
+    "@rss/core": "workspace:*",
+    "ai": "^6.0.0",
+    "zod": "^3.25.0"
+  }
+}

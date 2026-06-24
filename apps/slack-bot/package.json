@@ -1,0 +1,24 @@
+{
+  "name": "@rss/slack-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Slack review/publish surface: /draft an idea → caption + image(s) → Approve / Regenerate / Publish. Drives the @rss/agent pipeline + @rss/publisher. HTTP mode (signing secret). Nothing auto-publishes.",
+  "scripts": {
+    "start": "cd ../.. && node --env-file-if-exists=.env --import tsx apps/slack-bot/src/index.ts",
+    "compose": "node --env-file=../../.env --import tsx scripts/compose.ts",
+    "sample-run": "cd ../.. && node --env-file=.env --import tsx apps/slack-bot/scripts/sample-run.ts",
+    "publish-test": "cd ../.. && node --env-file=.env --import tsx apps/slack-bot/scripts/publish-test.ts",
+    "postiz-draft": "cd ../.. && node --env-file=.env --import tsx apps/slack-bot/scripts/postiz-draft.ts",
+    "library-publish": "cd ../.. && node --env-file=.env --import tsx apps/slack-bot/scripts/library-publish.ts",
+    "complete-test": "cd ../.. && node --env-file=.env --import tsx apps/slack-bot/scripts/complete-test.ts",
+    "smoke": "tsx scripts/smoke.ts"
+  },
+  "dependencies": {
+    "@rss/agent": "workspace:*",
+    "@rss/core": "workspace:*",
+    "@rss/publisher": "workspace:*",
+    "@slack/bolt": "^4.0.0",
+    "@slack/web-api": "^7.0.0"
+  }
+}

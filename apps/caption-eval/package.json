@@ -1,0 +1,16 @@
+{
+  "name": "@rss/caption-eval",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Caption-gate eval harness: applies the rehearsal-content skill via a direct gateway call to draft sample posts for human judgment. Not the production agent (that's Hermes).",
+  "scripts": {
+    "gate": "node --env-file=../../.env --import tsx scripts/run.ts",
+    "align": "node --env-file=../../.env --import tsx scripts/align-posts.ts"
+  },
+  "dependencies": {
+    "@rss/agent": "workspace:*",
+    "@rss/core": "workspace:*",
+    "@rss/image": "workspace:*"
+  }
+}

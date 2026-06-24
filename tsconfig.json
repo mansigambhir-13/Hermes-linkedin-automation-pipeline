@@ -1,0 +1,26 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@rss/core": ["packages/core/src/index.ts"],
+      "@rss/core/*": ["packages/core/src/*"],
+      "@rss/image": ["packages/image/src/index.ts"],
+      "@rss/image/*": ["packages/image/src/*"],
+      "@rss/render": ["packages/render/src/index.ts"],
+      "@rss/render/*": ["packages/render/src/*"],
+      "@rss/agent": ["packages/agent/src/index.ts"],
+      "@rss/agent/*": ["packages/agent/src/*"],
+      "@rss/publisher": ["packages/publisher/src/index.ts"],
+      "@rss/publisher/*": ["packages/publisher/src/*"]
+    }
+  },
+  "include": [
+    "packages/*/src/**/*.ts",
+    "apps/*/src/**/*.ts",
+    "packages/*/scripts/**/*.ts",
+    "apps/*/scripts/**/*.ts",
+    "test/**/*.ts"
+  ]
+}

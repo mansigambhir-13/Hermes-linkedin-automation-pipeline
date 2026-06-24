@@ -1,0 +1,24 @@
+{
+  "_comment": "Non-secret app defaults. Items marked _BLOCKER are team-supplied (04-build-brief §8 / 05-operational-checklist). Stubs here so code runs; do not treat stub values as decisions.",
+  "carouselSlideCount": {
+    "_BLOCKER": "TEAM: a default like 4-6, OR null = agent always asks the user",
+    "value": null,
+    "min": 3,
+    "max": 8
+  },
+  "autoIdeaCadence": {
+    "_BLOCKER": "TEAM: e.g. cron 'Tue,Fri 09:00 IST'; and whether to tie ideas to placement-season/exam timing",
+    "cron": null,
+    "timezone": "Asia/Kolkata",
+    "seasonAware": null
+  },
+  "linkedin": {
+    "_BLOCKER": "TEAM: posting target — 'company_page' (+ org URN) or 'personal'; and who authorizes OAuth",
+    "postingTarget": null,
+    "organizationUrn": null
+  },
+  "approval": {
+    "_comment": "v1: every post requires explicit human approval in Slack; nothing auto-publishes.",
+    "requireHumanApproval": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@rss/agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "seed-glossary-ig": "cd ../.. && node --env-file=.env --import tsx packages/agent/scripts/seed-glossary-ig.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/amazon-bedrock": "^4.0.108",
+    "@ai-sdk/anthropic": "^3.0.80",
+    "@rss/core": "workspace:*",
+    "@rss/image": "workspace:*",
+    "@rss/render": "workspace:*",
+    "ai": "^6.0.0",
+    "zod": "^3.25.0"
+  }
+}

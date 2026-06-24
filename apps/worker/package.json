@@ -1,0 +1,16 @@
+{
+  "name": "@rss/worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scheduling worker: polls the draft store for due scheduled posts and publishes them; notifies Slack.",
+  "scripts": {
+    "start": "cd ../.. && node --env-file-if-exists=.env --import tsx apps/worker/src/index.ts"
+  },
+  "dependencies": {
+    "@rss/agent": "workspace:*",
+    "@rss/core": "workspace:*",
+    "@rss/publisher": "workspace:*",
+    "@slack/web-api": "^7.0.0"
+  }
+}

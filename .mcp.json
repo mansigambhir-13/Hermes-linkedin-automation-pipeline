@@ -1,0 +1,9 @@
+{
+  "_comment": "Registers the RSS Tool Server with Claude Code (the conversational Hermes surface) over stdio. Portable: launches from the repo root and loads the repo .env, so Hermes can call all 15 tools — compose_caption / save_draft / get_post / update_post_status / save_idea, the AI image tools (generate_image, assemble_carousel), the deterministic + hybrid render tools (render_card, render_carousel, render_jargon_card, render_hybrid_card, render_hybrid_carousel), and the approval-gated publish_* tools. The render tools need Chromium once: `pnpm --filter @rss/render exec playwright install --with-deps chromium`.",
+  "mcpServers": {
+    "rss-tools": {
+      "command": "node",
+      "args": ["--env-file=.env", "--import", "tsx", "apps/tool-server/src/index.ts"]
+    }
+  }
+}

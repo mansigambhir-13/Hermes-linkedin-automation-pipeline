@@ -1,0 +1,14 @@
+node_modules
+**/node_modules
+.git
+.env
+.env.local
+.data
+.artifacts
+*.log
+# Large reference corpus — not needed at runtime (the library reads Supabase in prod).
+Sample content
+Sample content /
+# Dev-only reference material (postizz template port source) + stray archive — never needed at runtime.
+reference
+*.zip

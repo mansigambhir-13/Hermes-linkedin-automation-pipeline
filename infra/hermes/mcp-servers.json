@@ -1,0 +1,22 @@
+{
+  "_comment": "Register the RSS Tool Server with Hermes' MCP client (stdio) so Hermes can call our tools. Full set: compose_caption, save_draft, get_post, update_post_status, save_idea, generate_image, assemble_carousel (AI), render_card, render_carousel, render_jargon_card, render_hybrid_card, render_hybrid_carousel (deterministic + hybrid), publish_linkedin_single, publish_linkedin_document, publish_instagram (approval-gated). The repo runs TypeScript directly via tsx (no build step), so the tsx entry below is also correct for prod. The deterministic render tools need Chromium: `pnpm --filter @rss/render exec playwright install --with-deps chromium`. Replace cwd + env placeholders for your deployment. A portable, env-file variant for Claude Code lives at the repo-root .mcp.json.",
+  "mcpServers": {
+    "rss-tools": {
+      "command": "node",
+      "args": ["--import", "tsx", "apps/tool-server/src/index.ts"],
+      "cwd": "/absolute/path/to/Social Media Automation",
+      "env": {
+        "DATABASE_URL": "<supabase-postgres-url>",
+        "LOCKED_CONFIG_PATH": "config/locked-config.json",
+        "ANTHROPIC_API_KEY": "<anthropic-key>",
+        "IMAGE_ADAPTER": "fal",
+        "FAL_API_KEY": "<fal-key>",
+        "VISUAL_MODE": "render",
+        "OBJECT_STORE": "supabase",
+        "SUPABASE_URL": "<supabase-url>",
+        "SUPABASE_SERVICE_ROLE_KEY": "<supabase-service-role-key>",
+        "PUBLISHER_ADAPTER": "live"
+      }
+    }
+  }
+}

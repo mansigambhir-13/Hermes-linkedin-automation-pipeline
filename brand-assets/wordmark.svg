@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9677f8"/>
+      <stop offset="33%" stop-color="#4e44fd"/>
+      <stop offset="66%" stop-color="#ff4859"/>
+      <stop offset="100%" stop-color="#00c483"/>
+    </linearGradient>
+  </defs>
+  <text y="42" font-family="Raleway, sans-serif" fill="#0a0a0a" font-size="44" letter-spacing="-1">
+    <tspan font-weight="400">Re</tspan><tspan font-weight="200">hearsal</tspan>
+  </text>
+  <rect x="0" y="50" width="195" height="2.5" rx="1.25" fill="url(#rainbow)"/>
+</svg>

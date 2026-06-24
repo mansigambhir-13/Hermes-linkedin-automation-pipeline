@@ -1,0 +1,19 @@
+{
+  "name": "@rss/publisher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "smoke": "tsx scripts/smoke.ts",
+    "refresh-tokens": "cd ../.. && node --env-file=.env --import tsx packages/publisher/scripts/refresh-tokens.ts",
+    "linkedin-oauth": "cd ../.. && node --env-file=.env --import tsx packages/publisher/scripts/linkedin-oauth.ts",
+    "postiz-channels": "cd ../.. && node --env-file=.env --import tsx packages/publisher/scripts/postiz-channels.ts"
+  },
+  "dependencies": {
+    "@rss/core": "workspace:*"
+  }
+}

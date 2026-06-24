@@ -1,0 +1,40 @@
+name: CI
+
+# The gate that was missing under Render autoDeploy=true: every push to main goes
+# straight to prod, so a broken build/test must be caught here first.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Secret scan (no committed secrets)
+        run: bash scripts/secret-scan.sh
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Enable pnpm (corepack, version pinned in package.json)
+        run: corepack enable
+
+      - name: Install (frozen lockfile — same as Render)
+        run: pnpm install --frozen-lockfile
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Tests
+        run: pnpm test

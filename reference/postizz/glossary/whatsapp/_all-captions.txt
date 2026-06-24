@@ -1,0 +1,1259 @@
+============================================================
+#01  IMAGE: goodharts-law.png
+============================================================
+
+*Goodhart's Law*
+
+Set a target, and people stop chasing the goal. They chase the target.
+
+Economist *Charles Goodhart* noticed it in *1975*. The moment a measure becomes the thing you reward, people optimise the number instead of the outcome it was meant to track. The metric quietly stops telling the truth.
+
+Every metric you incentivise is a metric you can no longer fully trust.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#02  IMAGE: crowding-out-effect.png
+============================================================
+
+*Crowding Out Effect*
+
+A daycare fined parents for picking their kids up late. Late pickups went up.
+
+An *external incentive* can destroy an *internal one*. The fine replaced guilt with a price, and parents decided the price was fair. Pay people to do what they once did out of pride, and the pride is what leaves.
+
+Remove the reward later, and the original motivation does not come back.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#03  IMAGE: first-principles.png
+============================================================
+
+*First Principles*
+
+Most decisions are copies of other decisions. *First-principles* thinking refuses the copy.
+
+*Aristotle* called it the first basis from which a thing is known. You strip a problem down to what is physically true, then build back up. What survives is a real constraint. Everything else was convention wearing the costume of a law.
+
+The hardest question in any industry: which rules are laws, and which are just habits?
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#04  IMAGE: idiot-index.png
+============================================================
+
+*Idiot Index*
+
+Take a finished product's price. Divide it by the cost of its raw materials. The bigger the number, the more you are paying for convention.
+
+The term comes from *SpaceX* engineering culture. A rocket's idiot index ran around *fifty to one* — fifty dollars of price for every dollar of metal. That gap is not physics. It is everything the industry stopped questioning.
+
+A high idiot index is not a cost. It is an opportunity nobody has priced yet.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#05  IMAGE: inversion.png
+============================================================
+
+*Inversion*
+
+Most people ask how to succeed. The sharper question is how to *guarantee failure*, then refuse to do any of it.
+
+*Charlie Munger* built a career on it. Invert the problem, list every way it could die, and avoid each one. Tell me where I'll die, so I never go there.
+
+Avoiding stupidity is easier than seeking brilliance, and it wins more often.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#06  IMAGE: pre-mortem.png
+============================================================
+
+*Pre-Mortem*
+
+Before the project starts, imagine it has *already failed*. Spectacularly. Now explain why.
+
+Psychologist *Gary Klein* found this small reframe changes the room. Don't rock the boat becomes show how smart you are by spotting the crack. Treating the failure as certain surfaces far more reasons for it than politely asking what might go wrong.
+
+The risks you name before you start are the only ones you can still avoid.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#07  IMAGE: keeper-test.png
+============================================================
+
+*Keeper Test*
+
+*Netflix* managers ask one question about every person on the team. If they were leaving for a similar job, would I fight to keep them?
+
+If the answer is no, that person gets a generous exit, not a development plan. *Reed Hastings* drew the lesson after the 2001 layoffs — performance rose when the weakest third left. Talent density became the strategy.
+
+A team is defined less by who it hires than by who it is willing to keep.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#08  IMAGE: vitality-curve.png
+============================================================
+
+*Vitality Curve*
+
+Rank everyone. Reward the top fifth. Develop the middle. Fire the bottom tenth. Every single year.
+
+*Jack Welch*'s *20-70-10* model ran *GE* and spread across the Fortune 500. It assumed talent always fits a bell curve. Then the evidence caught up: forced ranking drove out strong performers and rewarded political skill over results. Most companies have quietly abandoned it.
+
+When the curve is the target, you stop measuring people and start manufacturing a distribution.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#09  IMAGE: career-capital.png
+============================================================
+
+*Career Capital*
+
+Passion does not come first. Rare and valuable skills do, and the passion tends to follow them.
+
+*Cal Newport* called it *career capital* — the stock of hard-won skills that compounds. Each new capability makes the others worth more. Titles sit still. Capital builds on itself.
+
+Don't follow your passion. Build something so good it can't be ignored.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#10  IMAGE: kasparovs-law.png
+============================================================
+
+*Kasparov's Law*
+
+In *2005*, a pair of amateurs with three laptops won a freestyle chess tournament. They beat grandmasters. They beat supercomputers.
+
+*Garry Kasparov* drew the lesson. A weak human plus a machine plus a better process beats a strong human with a machine and a worse one. The edge was never raw power. It was the process between the human and the machine.
+
+Not the strongest player, not the fastest computer. The best collaboration.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#11  IMAGE: jagged-frontier.png
+============================================================
+
+*Jagged Frontier*
+
+AI is brilliant at some tasks that look hard, and hopeless at some that look easy. The line between them is not where you would expect.
+
+A *Harvard* and *BCG* study named it the *jagged frontier*. Difficulty for a human does not predict difficulty for a machine. The real danger is trusting it on the wrong side of a line you cannot see.
+
+The skill is no longer doing the work. It is knowing where the machine quietly fails.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#12  IMAGE: automation-paradox.png
+============================================================
+
+*Automation Paradox*
+
+The better the autopilot, the more it matters that the human can fly, and the less chance they ever get to practise.
+
+*Lisanne Bainbridge* described it in *1983*. Automate the routine, and the operator's skills quietly fade — right up until the rare moment the machine hands control back. The reliability builds the trap. The one-percent failure springs it.
+
+The more a system runs itself, the more it depends on a skill it stops letting you keep.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#13  IMAGE: center-of-gravity.png
+============================================================
+
+*Center of Gravity*
+
+Where do you put the warehouse? The math has an answer: the *demand-weighted middle* of every customer you serve.
+
+Each location pulls the optimal point toward itself with a force proportional to its volume. A market shipping *ten thousand orders* pulls ten times harder than one shipping a thousand. The formula is clean. The point it lands on is often a lake.
+
+The optimal location and the feasible one are rarely the same place.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#14  IMAGE: dark-store.png
+============================================================
+
+*Dark Store*
+
+There is a shop near you that you can never walk into. No aisles, no customers, no signage. Only orders.
+
+A dark store is a small fulfilment unit, a couple of thousand square feet, parked inside the neighbourhood it serves. *Blinkit*, *Zepto* and *Swiggy Instamart* run on them. The whole format exists to win minutes, not metres.
+
+Ten-minute delivery is not a logistics trick. It is a real-estate decision.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#15  IMAGE: flight-to-quality.png
+============================================================
+
+*Flight to Quality*
+
+When the world feels dangerous, money does not disappear. It moves.
+
+Capital floods out of risky assets and into safe ones — *US Treasuries*, *gold*, the largest stable names. For Indian investors there is a sting in the tail: foreign funds sell Indian equities and buy dollars, so the *Nifty* and the *rupee* tend to fall together.
+
+In a panic, safety is the one asset everybody tries to buy at once.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#16  IMAGE: sharpe-ratio.png
+============================================================
+
+*Sharpe Ratio*
+
+Two funds both returned fifteen percent. One did it calmly, one on a rollercoaster. They are not the same fund.
+
+The *Sharpe ratio* measures return per unit of risk — how much volatility you swallowed for the gain. Higher looks better. But *leverage* and *hidden tail risk* can make a fragile strategy look smooth, right up until it isn't.
+
+A great return tells you what happened. The risk taken tells you whether to trust it.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#17  IMAGE: tragedy-of-the-commons.png
+============================================================
+
+*Tragedy of the Commons*
+
+Every herder adds one more cow to the shared field. Each decision is rational. Together they destroy the field.
+
+It is a *system archetype*: when a shared resource is free at the point of use, individual sense becomes *collective ruin*. The fix is never a lecture. It is making the shared cost visible and immediate to each person who draws on it.
+
+When everyone owns it, no one protects it — unless the cost finds its way home.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#18  IMAGE: shifting-the-burden.png
+============================================================
+
+*Shifting the Burden*
+
+The quick fix works. That is exactly what makes it dangerous.
+
+Lean on the *symptomatic solution* often enough and the capacity for the real one withers. A company that keeps firefighting forgets how to build what would stop the fires. The dependency hardens until the *structural fix* is no longer even an option.
+
+Every easy fix you reach for makes the hard fix a little harder to ever reach.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#19  IMAGE: retrospective-taxation.png
+============================================================
+
+*Retrospective Taxation*
+
+Picture a deal that was legal the day you signed it, taxed years later under a law written after the fact.
+
+India did exactly that in *2012*, amending the law to reach back to 1962 and tax the *Vodafone*-*Hutchison* transaction. After losing in international arbitration, the government repealed the provision in 2021. Certainty, it turned out, was worth more than the tax.
+
+A rule that rewrites the past collects its real price in lost trust.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#20  IMAGE: weighted-distribution.png
+============================================================
+
+*Weighted Distribution*
+
+*Parle* is in more shops than *Britannia*. *Britannia* still wins the shelf that matters.
+
+Numeric distribution counts how many stores stock you — pure breadth. *Weighted distribution* counts how much of the market's value those stores represent — depth. Being everywhere and being where the money is are two different victories.
+
+Availability is not the goal. Being available where the buying actually happens is.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#21  IMAGE: scope-creep.png
+============================================================
+
+*Scope Creep*
+
+Every project quietly grows. One small request, then another, until the thing you agreed to build is gone.
+
+It is tempting to blame the client. The real cause sits upstream: *requirements* too vague to draw a clear line. *Scope creep* is not cured by saying no. It is prevented by being specific enough that both sides can see exactly where the edge sits.
+
+You cannot defend a boundary you never drew.
+
+Read more on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#22  IMAGE: surrogation.png
+============================================================
+
+*Surrogation*
+
+Give a team a metric for a goal, and soon they forget the goal and serve the metric.
+
+Psychologists call it *surrogation*. *Zynga* is the cautionary tale: it optimised daily users, revenue per user and virality while the actual experience left players feeling worse. The dashboard glowed green as the product rotted.
+
+When the measure becomes the mission, you can hit every number and still lose.
+
+Find more like this on Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#23  IMAGE: the-offer.png
+============================================================
+
+*The Offer*
+
+*Zappos* pays new hires to quit. After four weeks of training, every recruit is offered a few thousand dollars to walk away.
+
+Almost nobody takes it, only two or three in a hundred. The ones who stay have chosen the culture over easy cash, and they engage harder for having chosen. The offer turns a passive hire into a committed one.
+
+The cheapest way to keep people is to give them a clean chance to leave.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#24  IMAGE: aladdin.png
+============================================================
+
+*Aladdin*
+
+One piece of software watches over more money than most economies produce. It is called *Aladdin*.
+
+Built by *BlackRock*, it monitors trillions in assets for hundreds of institutions, running thousands of risk factors and endless simulations on one operating system. It recently reached India through the Jio *BlackRock* venture.
+
+When a single risk engine sees that much of the market, the question stops being who owns the assets and becomes who sees them first.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#25  IMAGE: cow-path.png
+============================================================
+
+*Cow Path*
+
+Cows wander a hillside and wear a crooked path. Centuries later we pave it, and the crookedness becomes permanent.
+
+*Michael Hammer* used the image for software. Automate a broken process and you do not fix it, you make it faster and harder to ever change. The detour is now set in concrete.
+
+Before automating the work, ask why the work is shaped that way at all.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#26  IMAGE: war-premium.png
+============================================================
+
+*War Premium*
+
+When conflict threatens supply, the price of oil carries a fee that has nothing to do with how much is pumped. It is the market pricing in fear.
+
+After the *Russia-Ukraine* shock, analysts put that war premium near ten to fifteen dollars a barrel. For India, every ten-dollar rise in crude can add roughly half a percent to inflation.
+
+The barrel did not change. The story wrapped around it moved the price.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#27  IMAGE: forward-deployed-engineer.png
+============================================================
+
+*Forward Deployed Engineer*
+
+Most software is sold, installed, and left alone. *Palantir* sends an engineer to live inside the customer instead.
+
+A forward deployed engineer sits at the client's site and builds bespoke solutions to their exact problems, until the platform becomes part of how the institution runs. That is not implementation. It is entanglement.
+
+The deepest moat is not a better feature. It is being woven into someone's daily operations.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#28  IMAGE: vertical-integration.png
+============================================================
+
+*Vertical Integration*
+
+Most companies buy their parts. *SpaceX* builds about eighty-five percent of a rocket itself.
+
+Vertical integration means making in-house what others outsource. It becomes a weapon when the supply chain's prices are set by convention rather than physics, when the markup is tradition, not cost.
+
+Sometimes the cheapest supplier is the one you build yourself.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#29  IMAGE: premeditatio-malorum.png
+============================================================
+
+*Premeditatio Malorum*
+
+The Stoics had a nightly habit: picture the worst before it arrives. They called it premeditatio malorum, the premeditation of evils.
+
+*Marcus Aurelius* and *Seneca* rehearsed loss, failure and insult on purpose, not from gloom but from preparation. A blow imagined in advance lands softer when it finally comes.
+
+Fear shrinks the moment you make yourself look straight at it.
+
+Read it once. Practice it weekly.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#30  IMAGE: forced-distribution.png
+============================================================
+
+*Forced Distribution*
+
+Tell managers that exactly ten percent of any team must be rated poor, and you will always find your ten percent, even on a team of stars.
+
+*Forced distribution* bends every group onto a *bell curve* whether the people fit it or not. It manufactures a scarcity of top ratings and guarantees that some strong performers get labelled weak.
+
+A quota does not measure talent. It just decides in advance how many will be told they failed.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#31  IMAGE: mesh-network.png
+============================================================
+
+*Mesh Network*
+
+Old logistics funnels everything through a few giant hubs. A mesh lets every facility route to every other one.
+
+*Delhivery* runs this way: when a bottleneck appears, parcels reroute in real time instead of waiting on one central sort. No single hub is a single point of failure.
+
+The strongest networks have no center to break.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#32  IMAGE: effective-tax-rate.png
+============================================================
+
+*Effective Tax Rate*
+
+The headline tax rate is what the law asks. The effective rate is what a company actually pays after every deduction, credit and clever structure.
+
+The gap can be vast. *Apple*'s Irish operations once paid an effective rate of around 0.005 percent against a statutory 12.5.
+
+The rate on paper is a starting bid. The effective rate is the real story.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#33  IMAGE: india-vix.png
+============================================================
+
+*India VIX*
+
+There is a number that measures fear. When investors are scared, they pay up for protection, and the gauge climbs.
+
+*India VIX*, built by the *NSE* from Nifty options, sits at twelve to twenty in calm times and spikes past fifty in a crisis, touching roughly eighty during the 2020 crash. Counterintuitively, very high readings have tended to precede recoveries, not deeper falls.
+
+Peak fear and peak danger are rarely the same moment.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#34  IMAGE: skill-atrophy.png
+============================================================
+
+*Skill Atrophy*
+
+When the machine does the hard part, the human slowly forgets how. That erosion has a name: *skill atrophy*.
+
+Systems that boost output while quietly hollowing out ability are a time bomb. The numbers look great right up until a human has to step in and cannot.
+
+Productivity you cannot sustain without the tool is borrowed, not earned.
+
+Read it once. Practice it weekly.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#35  IMAGE: escalation.png
+============================================================
+
+*Escalation*
+
+Two rivals each take a step they call defensive. The other reads it as a threat and steps back harder. Round and round, past anything either side intended.
+
+Systems thinkers call it *escalation*, an arms race, a price war, a comment thread. Each move is rational; the spiral is not. Usually only an outside limit or one side walking away ends it.
+
+The way to win an *escalation* is to notice you are in one.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#36  IMAGE: alpha.png
+============================================================
+
+*Alpha*
+
+Every investor wants *alpha*, the return earned above what the market handed out for free. It is the proof that skill, not luck, was at work.
+
+The catch: most apparent *alpha* is really *beta* in disguise, ordinary market exposure dressed up as brilliance. Telling the two apart is the whole job.
+
+Beating the market is easy to claim and brutally hard to prove.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#37  IMAGE: mis-selling.png
+============================================================
+
+*Mis-Selling*
+
+A policy sold to hit a commission target instead of a customer's need has a name. Regulators call it mis-selling.
+
+It happens when the incentive points at the sale, not the buyer, the wrong cover, the wrong risk profile, the wrong person. In India the *IRDAI* tracks it through complaint ratios and has acted against insurers with systematic patterns.
+
+A sale that ignores the customer is a liability wearing the costume of revenue.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#38  IMAGE: task-unbundling.png
+============================================================
+
+*Task Unbundling*
+
+Automation does not replace jobs. It replaces tasks, and a job is just a bundle of them.
+
+*Self-checkout* unbundled the cashier: it took the scanning and left the troubleshooting, the loss prevention, the human judgment. The job survived because only one task left.
+
+Ask not whether a role can be automated, but which of its tasks can.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#39  IMAGE: numeric-distribution.png
+============================================================
+
+*Numeric Distribution*
+
+There are two ways to count how widely a product sells, and they tell different stories.
+
+Numeric distribution is pure reach: the share of all stores that stock you. *Parle* leads here, sitting in more shops than *Britannia*. It says nothing about whether those shops are the ones that matter.
+
+Being in the most stores and being in the right stores are not the same win.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#40  IMAGE: self-binding-governance.png
+============================================================
+
+*Self-Binding Governance*
+
+*Ulysses* had himself tied to the mast so he could hear the sirens and not steer toward them. Some founders do the same to themselves.
+
+Self-binding governance is building rules that limit your own future power, board seats you cannot pack, decisions you cannot reverse, so the company stays protected even when you are tempted.
+
+The strongest leaders design the cage before they need it.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#41  IMAGE: cannibalization.png
+============================================================
+
+*Cannibalization*
+
+A company launches a cheaper product and sales rise. The trap is where the sales came from.
+
+*Cannibalization* is when the new product eats the old one instead of the competition, the customer who would have bought premium reaching for budget instead. Revenue can grow while the brand quietly erodes, for years, before anyone notices.
+
+Growth that feeds on your own margins is not growth. It is a countdown.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#42  IMAGE: convention-blindness.png
+============================================================
+
+*Convention Blindness*
+
+Say a price out loud often enough and it starts to feel like a law of nature. Batteries cost six hundred dollars a kilowatt-hour, everyone knew it.
+
+Except the raw materials cost about eighty. The rest was *convention blindness*: mistaking an industry's habit for physics. And it deepens with experience, the more years you spend inside a field, the more its rules feel like gravity.
+
+The most expensive assumptions are the ones nobody questions anymore.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#43  IMAGE: ambidextrous-organization.png
+============================================================
+
+*Ambidextrous Organization*
+
+Most companies are built to do one thing well. A rare few run two clocks at once.
+
+An ambidextrous organization exploits today's business for profit while a structurally separate unit explores tomorrow's, different metrics, different culture, joined only at the top. *O'Reilly and Tushman* found the pattern studying breakthrough efforts across nine industries.
+
+The hard trick is not choosing between today and tomorrow. It is running both.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#44  IMAGE: defense-sector-rotation.png
+============================================================
+
+*Defense Sector Rotation*
+
+When tensions rise, money does not just flee. Some of it charges toward the guns.
+
+Defense sector rotation is capital moving into defence stocks on the bet that military spending climbs. During India's *Operation Sindoor* in 2025, the *Nifty Defence* index jumped about twenty-four percent in seven sessions. These rallies are fast and sentiment-driven, and often reverse once the diplomacy starts.
+
+The rally arrives with the headline and leaves with the ceasefire.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#45  IMAGE: deskilling.png
+============================================================
+
+*Deskilling*
+
+Stop doing a thing and the ability to do it fades. Not forgotten exactly, *deskilled*.
+
+When automation takes over a practised task, motor timing slips, mental models drift, diagnosis slows. The operator looks fine until the moment the machine needs them, and then the rust shows.
+
+A skill you no longer use is a skill you are quietly losing.
+
+Read it once. Practice it weekly.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#46  IMAGE: the-ask.png
+============================================================
+
+*The Ask*
+
+Every pitch lives or dies on one sentence: the ask. The exact, quantified thing you want.
+
+A strong ask says what you need, what you give back, and where the money goes. A weak one is vague or buried, and attention does not wait. *DocSend* found investors spend under four minutes on a deck on average.
+
+If they remember one line, make sure it is the one where you asked.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#47  IMAGE: compa-ratio.png
+============================================================
+
+*Compa-Ratio*
+
+There is a number that decides your next raise, and most people never learn it exists.
+
+*Compa-ratio* is your salary divided by the midpoint of your pay band. At 0.80 you sit twenty percent below midpoint, with room to climb. At 1.20 you near the ceiling, and HR quietly starts tapering your raises.
+
+You cannot negotiate against a number you have never been shown.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#48  IMAGE: tax-ruling.png
+============================================================
+
+*Tax Ruling*
+
+A tax ruling is meant to give certainty: the authority tells you in advance how a deal will be treated.
+
+In the right hands it is prudent planning. In the wrong ones it is a rubber stamp, *LuxLeaks* exposed how *PwC Luxembourg* used advance rulings to pre-approve aggressive structures for some 340 multinationals.
+
+The same instrument can buy clarity or sell cover. The difference is intent.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#49  IMAGE: leverage-point.png
+============================================================
+
+*Leverage Point*
+
+In every system there is a spot where a small push moves everything. Find it and you barely have to shove.
+
+*Donella Meadows* mapped twelve such leverage points, from tweaking numbers at the weak end to shifting the whole paradigm at the strong one. Most people push hardest on the levers that move least.
+
+The art is not effort. It is knowing where to apply it.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#50  IMAGE: identity-lock-in.png
+============================================================
+
+*Identity Lock-in*
+
+The job title you wear starts to feel like who you are. Then any move that means starting over feels like losing yourself.
+
+*Identity lock-in* is that quiet trap. It pushes people to climb within one function, to optimise the title, instead of building rarer skills across several. The résumé looks consistent and the options keep shrinking.
+
+Define yourself by what you can do, not by what you are called.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#51  IMAGE: hub-and-spoke.png
+============================================================
+
+*Hub-and-Spoke*
+
+Send everything to one big sorting center, then fan it back out. That is hub-and-spoke, and it is wonderfully efficient until it isn't.
+
+*Blue Dart*'s aviation network runs this way, central hubs connecting regions through one sort. Predictable, high-volume routes love it. Sudden shifts in demand expose it, because the hub is also the single point of failure.
+
+Efficiency and fragility often share the same address.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#52  IMAGE: affinity-bias.png
+============================================================
+
+*Affinity Bias*
+
+An interviewer meets a candidate who reminds them of themselves and feels a quiet click. They call it fit.
+
+*Affinity bias* is that pull toward people who share your background, school or demographics, and it hides well. Similarity gets rationalised as culture fit, difference as values misalignment. The bias dresses itself up as judgment.
+
+When a hire just feels right, that is exactly the moment to check why.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#53  IMAGE: inverted-apprenticeship.png
+============================================================
+
+*Inverted Apprenticeship*
+
+For centuries the senior taught the junior. New technology can flip the arrow.
+
+Inverted apprenticeship is the junior teaching the expert, usually about a tool the veteran never grew up with. *Beane and Anthony* found four ways it happens, but fewer than one in ten produce real benefit for both sides on their own.
+
+The org chart says who reports to whom. It does not say who learns from whom.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#54  IMAGE: tracking-error.png
+============================================================
+
+*Tracking Error*
+
+A fund that perfectly copies its index has a tracking error of zero, and adds nothing you could not buy for free.
+
+*Tracking error* measures how far a portfolio strays from its benchmark. Passive funds keep it under two or three percent; active funds run higher because they are placing bets. Too low and you are a closet index; too high and you are off your mandate.
+
+The number quietly reveals how much independent thinking is actually happening.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#55  IMAGE: business-process-reengineering.png
+============================================================
+
+*Business Process Reengineering*
+
+Most improvement asks how to do the same work faster. Reengineering asks a ruder question: why do this work at all?
+
+*Michael Hammer* coined business process reengineering in 1990, not tuning a process but tearing it up and redesigning around the outcome. Done well it collapses cost and time at once. Done as a slogan it just means layoffs.
+
+The biggest gains hide in the steps you stop doing entirely.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#56  IMAGE: safe-haven-assets.png
+============================================================
+
+*Safe Haven Assets*
+
+When markets fall, a handful of assets rise, or at least refuse to sink. *Gold*, *US Treasuries*, the dollar, the yen.
+
+These are safe havens, where frightened capital runs to hide. For Indian investors gold is the most reachable one: it rose around twenty-five percent in 2008 while equities halved. But its crisis spike is usually temporary, gold works best as a steady stabiliser, not a panic trade.
+
+The time to own the umbrella is before it rains.
+
+Read it. Now defend it.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#57  IMAGE: perceptual-map.png
+============================================================
+
+*Perceptual Map*
+
+Plot every brand in a category on two axes of how customers see them, and a picture appears: clusters where everyone crowds, and empty space where no one stands.
+
+That empty space is the prize. A perceptual map is how you find it, *Dove* spotted an unclaimed quadrant once worth around four billion dollars.
+
+The best position on the map is often the one nobody else wanted.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#58  IMAGE: value-proposition.png
+============================================================
+
+*Value Proposition*
+
+A *value proposition* is not a slogan. It is a claim you could be proven wrong about.
+
+Strong ones are testable, we deliver in ten minutes can be checked against the clock. Weak ones hide behind best-in-class service, which means nothing and risks nothing. It answers the only question the listener is really asking: why should I care?
+
+If your promise cannot be falsified, it cannot be believed either.
+
+Defensible in 15 minutes.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#59  IMAGE: nav-reconciliation.png
+============================================================
+
+*NAV Reconciliation*
+
+A fund's net asset value is the number everyone trusts. Reconciliation is what earns that trust.
+
+*NAV reconciliation* checks the fund's own valuation against the custodian's, line by line. If positions, cash and profit all agree, the NAV agrees too, it is the last gate before the number goes out the door.
+
+The figure investors rely on is only as honest as the check behind it.
+
+Practice this in Rehearsal.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/
+
+============================================================
+#60  IMAGE: one-month-manual-rule.png
+============================================================
+
+*One-Month Manual Rule*
+
+Want to know if a task can be automated? Ask how long it would take to teach from a manual.
+
+The *one-month manual rule* says: if a person could learn the task from written instructions within a month, it runs on explicit knowledge, and that makes it an automation candidate. Applied to single tasks, it sidesteps the politics of judging whole jobs.
+
+What can be written down can usually be handed off.
+
+Read it once. Practice it weekly.
+
+_Forward this to someone prepping for placements._
+
+📲 Download the Rehearsal app
+iOS · https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041
+Android · https://play.google.com/store/apps/details?id=ai.rehearsal.app
+Web · https://rehearsal.gradeless.ai/

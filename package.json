@@ -1,0 +1,30 @@
+{
+  "name": "rehearsal-social-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "build": "tsc -p tsconfig.json",
+    "test": "node --import tsx --test test/*.test.ts",
+    "idea": "tsx packages/agent/scripts/run-idea.ts",
+    "start:bot": "pnpm --filter @rss/slack-bot start",
+    "start:worker": "pnpm --filter @rss/worker start",
+    "db:migrate": "pnpm --filter @rss/core db:migrate",
+    "seed-library": "pnpm --filter @rss/core seed-library"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
+  }
+}

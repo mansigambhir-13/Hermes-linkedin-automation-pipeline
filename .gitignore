@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+.artifacts/
+out-images/
+*.log
+.data/
+
+# Large reference corpus (glossary MDs + ~MB PNGs) — not needed at runtime (library reads Supabase).
+Sample content/
+Sample content /
+
+# team-supplied real locked config (template is config/locked-config.example.json)
+config/locked-config.json
+
+# Local scratch / large media — not part of the app
+misc/
+*.mov
+*.mp4
+*.zip

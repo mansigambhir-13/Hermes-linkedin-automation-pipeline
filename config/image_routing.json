@@ -1,0 +1,21 @@
+{
+  "_comment": "Directive 02 (2026-05-25): images run on fal.ai (Vercel AI Gateway retired). Model ids verified against fal live docs. NOTE: recraft-v3 has NO seed param — carousel consistency relies on the locked style-spec prompt (the gate measures it); imagen4/ideogram honor seed. Per-model aspect handling (aspect_ratio vs image_size enum) is in packages/image/src/adapters/fal.ts.",
+  "hero": {
+    "provider": "fal",
+    "model": "fal-ai/imagen4/preview/ultra",
+    "alternates": ["fal-ai/imagen4/preview", "fal-ai/flux-pro/v1.1-ultra"],
+    "note": "Photoreal/concept hero (Imagen 4 Ultra on fal). aspect_ratio + seed."
+  },
+  "statement": {
+    "provider": "fal",
+    "model": "fal-ai/ideogram/v3",
+    "alternates": ["fal-ai/recraft-v3"],
+    "note": "Headline typeset into image (Ideogram v3). aspect_ratio + seed."
+  },
+  "carousel_slide": {
+    "provider": "fal",
+    "model": "fal-ai/imagen4/preview/ultra",
+    "alternates": ["fal-ai/imagen4/preview", "fal-ai/recraft-v3"],
+    "note": "Directive 04 probe (2026-05-25): recraft-v3 was DEMOTED for inventing garbled on-slide text and defaulting to photoreal stock. Carousel slides now route to Imagen4 (validated on /preview/ultra) — it honors the pinned seed (→ cross-slide consistency) and respects 'no text'. /preview is the cheaper same-family alternate; recraft kept as a fallback. aspect_ratio + seed."
+  }
+}

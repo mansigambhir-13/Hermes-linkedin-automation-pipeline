@@ -1,0 +1,9 @@
+{
+  "name": "@rss/web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Phase 4 (optional/deprioritized): minimal static intake form. Slack-via-Hermes is the primary v1 surface; this hands an idea to the intake, which starts a Hermes conversation.",
+  "scripts": {
+    "serve": "npx --yes serve ."
+  }
+}

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<!--
+  Rehearsal — Voice Notes consumer mailer (prospects + win-back)
+  ------------------------------------------------------------------
+  Same system as the Jaipuria mailer: dark hero banner, white body,
+  green CTA, rainbow rule, dark footer. 600px tables, inline CSS,
+  bulletproof Outlook (VML) button.
+
+  BEFORE SENDING — replace:
+    ../banner-notes.png   -> ../banner-notes.png uploaded to your ESP/CDN
+    assets/notes-home.jpeg     -> mailer/assets/notes-home.jpeg   (public URL)
+    assets/notes-picker.jpeg   -> mailer/assets/notes-picker.jpeg (public URL)
+    assets/notes-saved.jpeg    -> mailer/assets/notes-saved.jpeg  (public URL)
+    {{FirstName}}    -> ESP merge tag
+    {{UnsubscribeURL}} + footer address
+-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Notes that talk back.</title>
+  <!--[if mso]>
+  <noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+  <![endif]-->
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    body,table,td,a{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+    table,td{ mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    img{ -ms-interpolation-mode:bicubic; border:0; height:auto; line-height:100%; outline:none; text-decoration:none; }
+    table{ border-collapse:collapse !important; }
+    body{ margin:0 !important; padding:0 !important; width:100% !important; height:100% !important; background:#eef0f3; }
+    a{ color:#00a06b; }
+    .btn-a:hover{ background:#00a878 !important; }
+    @media screen and (max-width:600px){
+      .wrap{ width:100% !important; }
+      .px{ padding-left:24px !important; padding-right:24px !important; }
+      .h1{ font-size:28px !important; line-height:1.14 !important; }
+      .shot{ width:31% !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background:#eef0f3;">
+
+  <!-- preheader -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef0f3; opacity:0;">
+    Tap the mic, talk for a minute, and get a clean summary with takeaways — in your own words. New in the Rehearsal app.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef0f3;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+
+        <!-- ============ CARD ============ -->
+        <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background:#ffffff; border-radius:18px; overflow:hidden; box-shadow:0 10px 40px rgba(10,10,20,0.10);">
+
+          <!-- banner -->
+          <tr>
+            <td style="background:#0a0a0c; line-height:0; font-size:0;">
+              <a href="https://tryrehearsal.ai" target="_blank" style="text-decoration:none;">
+                <img src="../banner-notes.png" width="600" alt="New: Voice Notes — talk, we take notes"
+                     style="display:block; width:100%; max-width:600px; height:auto; border:0;">
+              </a>
+            </td>
+          </tr>
+
+          <!-- body -->
+          <tr>
+            <td class="px" style="padding:40px 48px 8px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 22px 0; font-size:18px; line-height:1.3; color:#0a0a0c; font-weight:700;">
+                Hi {{FirstName}},
+              </p>
+              <h1 class="h1" style="margin:0 0 18px 0; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:32px; line-height:1.14; letter-spacing:-0.5px; color:#0a0a0c; font-weight:900;">
+                Your best thinking happens out loud. Now it gets saved.
+              </h1>
+              <p style="margin:0 0 18px 0; font-size:16px; line-height:1.62; color:#3c4149; font-weight:400;">
+                After a mock, after class, on a walk — you think out loud all day, and most of it evaporates.
+                <b style="color:#0a0a0c;">Voice Notes</b> catches it: tap the mic, talk, done.
+                AI writes the summary and pulls the takeaways — <b style="color:#0a0a0c;">in your own words.</b>
+              </p>
+            </td>
+          </tr>
+
+          <!-- feature list -->
+          <tr>
+            <td class="px" style="padding:6px 48px 10px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">🎙️</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">One tap, zero typing</b> — record up to 10 minutes; you get a clean summary + key takeaways.</td>
+                </tr>
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">🗂️</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">It organizes itself</b> — Summary, Insights, Meeting or Interviews; your library files the note for you.</td>
+                </tr>
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">📖</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">Works inside courses too</b> — answer a "Test Your Instinct" question out loud and it's saved before you finish the screen.</td>
+                </tr>
+                <tr>
+                  <td valign="top" width="34" style="padding:8px 0; font-size:18px; line-height:1.5;">💬</td>
+                  <td valign="top" style="padding:8px 0; font-size:16px; line-height:1.5; color:#3c4149;"><b style="color:#0a0a0c;">Ask your notes</b> — a week later, ask what you said and your own thinking answers back.</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- screenshots strip -->
+          <tr>
+            <td align="center" style="padding:18px 36px 8px 36px; background:#ffffff;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f6f8; border-radius:16px; border:1px solid #e6e9ee;">
+                <tr>
+                  <td align="center" style="padding:22px 18px 8px 18px; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:13px; letter-spacing:2px; text-transform:uppercase; color:#8b909a; font-weight:800;">
+                    Tap · Talk · Saved
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding:10px 18px 22px 18px;">
+                    <table role="presentation" cellpadding="0" cellspacing="0"><tr>
+                      <td class="shot" style="padding:0 6px;"><img src="assets/notes-home.jpeg" width="160" alt="Your notes, organized with daily rings" style="display:block; width:160px; height:auto; border-radius:14px; border:1px solid #dfe3e9;"></td>
+                      <td class="shot" style="padding:0 6px;"><img src="assets/notes-picker.jpeg" width="160" alt="Pick the kind of note — Summary, Insights, Meeting, Interviews" style="display:block; width:160px; height:auto; border-radius:14px; border:1px solid #dfe3e9;"></td>
+                      <td class="shot" style="padding:0 6px;"><img src="assets/notes-saved.jpeg" width="160" alt="Record inside a course — note saved" style="display:block; width:160px; height:auto; border-radius:14px; border:1px solid #dfe3e9;"></td>
+                    </tr></table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- win-back line -->
+          <tr>
+            <td class="px" style="padding:18px 48px 6px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 18px 0; font-size:16px; line-height:1.62; color:#3c4149;">
+                Been away for a while? This is the best reason to come back. Open the app, tap the mic, and say one thought you don't want to lose.
+              </p>
+            </td>
+          </tr>
+
+          <!-- CTA button -->
+          <tr>
+            <td align="center" style="padding:10px 48px 10px 48px;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://tryrehearsal.ai" style="height:54px;v-text-anchor:middle;width:300px;" arcsize="100%" strokecolor="#00c483" fillcolor="#00c483">
+                <w:anchorlock/>
+                <center style="color:#06231a;font-family:Arial,sans-serif;font-size:17px;font-weight:bold;">Record your first note</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-- -->
+              <a class="btn-a" href="https://tryrehearsal.ai" target="_blank"
+                 style="background:#00c483; color:#06231a; display:inline-block; font-family:'Raleway',Helvetica,Arial,sans-serif; font-size:17px; font-weight:800; line-height:54px; text-align:center; text-decoration:none; width:300px; border-radius:100px; -webkit-text-size-adjust:none;">
+                Record your first note
+              </a>
+              <!--<![endif]-->
+            </td>
+          </tr>
+
+          <!-- app links -->
+          <tr>
+            <td align="center" style="padding:4px 48px 34px 48px; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0; font-size:13px; line-height:1.5; color:#8b909a;">
+                Get the app — search <b style="color:#3c4149;">"Rehearsal AI"</b> on the
+                <a href="https://apps.apple.com/in/app/try-rehearsal-ai/id6762619041" style="color:#00a06b; font-weight:700; text-decoration:none;">App Store</a> ·
+                <a href="https://play.google.com/store/apps/details?id=ai.rehearsal.app" style="color:#00a06b; font-weight:700; text-decoration:none;">Google Play</a>
+                &nbsp;or use the <a href="https://rehearsal.gradeless.ai/" style="color:#00a06b; font-weight:700; text-decoration:none;">web app</a>
+              </p>
+            </td>
+          </tr>
+
+          <!-- rainbow rule -->
+          <tr><td style="line-height:0; font-size:0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+              <td width="25%" height="6" style="background:#9677f8; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#4e44fd; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#ff4859; line-height:0; font-size:0;">&nbsp;</td>
+              <td width="25%" height="6" style="background:#00c483; line-height:0; font-size:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <!-- footer -->
+          <tr>
+            <td style="padding:26px 48px 30px 48px; background:#0a0a0c; font-family:'Raleway',Helvetica,Arial,sans-serif;">
+              <p style="margin:0 0 6px 0; font-size:22px; line-height:1; color:#ffffff; font-weight:400;">Re<span style="font-weight:200;">hearsal</span></p>
+              <p style="margin:0 0 16px 0; font-size:12px; letter-spacing:1.5px; text-transform:uppercase; color:#8b909a; font-weight:600;">Practice that sounds like you</p>
+              <p style="margin:0; font-size:12px; line-height:1.6; color:#6b7079;">
+                You're receiving this because you have a Rehearsal account or asked to hear from us.<br>
+                [Your Company Pvt. Ltd., Address line, City, PIN]<br>
+                <a href="{{UnsubscribeURL}}" style="color:#8b909a; text-decoration:underline;">Unsubscribe</a> &nbsp;·&nbsp;
+                <a href="https://tryrehearsal.ai" style="color:#8b909a; text-decoration:underline;">tryrehearsal.ai</a>
+              </p>
+            </td>
+          </tr>
+
+        </table>
+        <!-- ============ /CARD ============ -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
