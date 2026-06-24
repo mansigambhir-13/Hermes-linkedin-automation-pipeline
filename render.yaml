@@ -3,21 +3,21 @@
 # Deploy: Render Dashboard → New → Blueprint → connect this repo → Apply.
 # Then fill the rss-shared env group's secrets (they are sync:false → Render prompts; never in the repo).
 #
-# Cost note: Render Background Workers require a paid instance (Starter ≈ $7/mo each → ≈ $14/mo for both).
+# Cost note: rss-bot runs Chromium (the @rss/render renderer) → Docker runtime + Standard (~2GB) ≈ $25/mo.
+# rss-worker is publish-only (no browser) → Node + Starter ≈ $7/mo. Total ≈ $32/mo.
 # Hard rule: exactly ONE bot + ONE worker instance (no horizontal scaling).
 
 services:
   - type: worker
     name: rss-bot
-    runtime: node
+    runtime: docker            # was: node — the node runtime ignores the Dockerfile, so Chromium never
+                               # installs and the renderer crashes on the first /draft. Docker builds the
+                               # image that installs Chromium; CMD defaults to `pnpm start:bot`.
+    dockerfilePath: ./Dockerfile
     region: singapore # closest Render region to Supabase ap-northeast-1 (Tokyo)
-    plan: starter
-    buildCommand: corepack enable && pnpm install --frozen-lockfile
-    startCommand: pnpm start:bot
+    plan: standard             # was: starter (512MB) — Chromium needs ~1GB+; Standard ≈ 2GB
     autoDeploy: true
     envVars:
-      - key: NODE_VERSION
-        value: "22"
       - fromGroup: rss-shared
 
   - type: worker
